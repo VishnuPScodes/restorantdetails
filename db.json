@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "url": "",
+      "name": "Burgger",
+      "payment": "CASH",
+      "cost": 99,
+      "category": "non-veg",
+      "id": 1
+    },
+    {
+      "name": "Chicken masala",
+      "payment": "CASH",
+     
+      "category": "non-veg",
+      "cost": 100,
+      "id": 2
+    },
+    {
+      "name": "Dosa",
+      "payment": "CASH",
+      
+      "category": "veg",
+      "cost": 60,
+      "id": 3
+    },
+    {
+      "name": "Meals",
+      "payment": "CARD",
+      "category": "veg",
+      "cost": 150,
+      "id": 4
+    },
+    {
+      "name": "Chicken Bhiriyani",
+      "payment": "COUPON",
+      "cost": 200,
+      "category": "non-veg",
+      "id": 5
+    },
+    {
+      "name": "iddli",
+      "payment": "CASH",
+      "cost": 30,
+      "category": "veg",
+      "id": 6
+    },
+    {
+      "name": "Taka taka",
+      "payment": "CARD",
+      "category": "non-veg",
+      "cost": 300,
+      "id": 7
+    },
+    {
+      "name": "Tandori chicken",
+      "payment": "CASH",
+      "cost": 300,
+      "category": "non-veg",
+      "id": 8
+    },
+    {
+      "name": "Alfam",
+      "payment": "CASH",
+      "cost": 400,
+      "category": "non-veg",
+      "id": 9
+    },
+    {
+      "name": "Put",
+      "payment": "CASH",
+      "cost": 60,
+      "category": "veg",
+      "id": 10
+    },
+    {
+      "name": "Egg fry",
+      "payment": "CASH",
+      "cost": 80,
+      "category": "non-veg",
+      "id": 11
+    },
+    {
+      "name": "Beef roast",
+      "payment": "CARD",
+      "cost": 120,
+      "category": "non-veg",
+      "id": 12
+    },
+    {
+      "name": "Payasam",
+      "payment": "CASH",
+      "cost": 60,
+      "category": "veg",
+      "id": 13
+    },
+    {
+      "name": "chicken masala tika",
+      "payment": "CASH",
+      "cost": 700,
+      "category": "non-veg",
+      "id": 14
+    },
+    {
+      "name": "Chicken roast",
+      "payment": "COUPON",
+      "cost": 800,
+      "category": "non-veg",
+      "id": 15
+    },
+    {
+      "name": "Fried rice",
+      "payment": "CARD",
+      "cost": 140,
+      "category": "non-veg",
+      "id": 16
+    },
+    {
+      "name": "Fried rice",
+      "payment": "COUPON",
+      "cost": 120,
+      "category": "veg",
+      "id": 17
+    },
+    {
+      "name": "Chicken chinees soup",
+      "payment": "COUPON",
+      "cost": 700,
+      "category": "non-veg",
+      "id": 18
+    },
+    {
+      "name": "Beef soup",
+      "payment": "CARD",
+      "cost": 900,
+      "category": "non-veg",
+      "id": 19
+    },
+    {
+      "name": "Porridor",
+      "payment": "CARD",
+      "cost": 80,
+      "category": "veg",
+      "id": 20
+    }
+  ]
+}

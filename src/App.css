@@ -1,0 +1,44 @@
+#item{
+  border: 1px solid red;
+  height: 250px;
+  width: 200px;
+  margin-right: 70px;
+ text-align: center;
+  margin-left: 10px;
+  margin-top: 10px;
+ 
+
+}
+#item:hover{
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+  transform: scale(1.1);
+  cursor: pointer;
+  /* background-color:red; */
+  /* transform: rotate(360deg); */
+  transition:all .1s ease-out;
+  opacity: 1;
+}
+#rest:hover{
+  color:red;
+  font-weight:700;
+  font-size:50px;
+  transition:5s;
+}
+/* #item:hover #red{
+  color:green;
+  font-weight:700;
+  font-size:30px;
+  transition:5s;
+} */
+#red{
+  color: red;
+}
+#main{
+  display: flex;
+  flex-wrap: wrap;
+}
+#navbar{
+  border: 1px solid red;
+  height: 80px;
+  width: 99%;
+}
